@@ -74,15 +74,17 @@ public DataSource dataSource() {
     return ds;
 }
 
-##💻 How to Run the Project
+---
+
+## 💻 How to Run the Project
 ### 1. Clone the repository:
 git clone https://github.com/yourusername/EmployeeManagementSystem.git
-###2. Open it in VS Code or Eclipse
-###3. Add the required Spring JARs or use Maven dependencies
-###4. Make sure your database is running and configured properly.
-###5. Run the main class:
+### 2. Open it in VS Code or Eclipse
+### 3. Add the required Spring JARs or use Maven dependencies
+### 4. Make sure your database is running and configured properly.
+### 5. Run the main class:
 App.java
-###6. Follow the console menu to:
+### 6. Follow the console menu to:
 Insert employees
 Delete employees
 View all employees
